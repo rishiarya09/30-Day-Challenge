@@ -22,38 +22,38 @@ leetcode/ # LeetCode solutions with complexity analysis
 
 ## 📆 Daily Progress Tracker
 
-| Day | Frontend (GFE 75)                            | System Design (Hello Interview) | LeetCode | GitHub Commit Link                                                                                         |
-| --- | -------------------------------------------- | ------------------------------- | -------- | ---------------------------------------------------------------------------------------------------------- |
-| 1   | Implement Debounce Function using setTimeout | Design LeetCode platform        | Two Sum  | [Commit](lhttps://github.com/rishiarya09/30-Day-Challenge/commit/abde5bbf1041b06232ce896286d71b864efb13a0) |
-| 2   |                                              |                                 |          |                                                                                                            |
-| 3   |                                              |                                 |          |                                                                                                            |
-| 4   |                                              |                                 |          |                                                                                                            |
-| 5   |                                              |                                 |          |                                                                                                            |
-| 6   |                                              |                                 |          |                                                                                                            |
-| 7   |                                              |                                 |          |                                                                                                            |
-| 8   |                                              |                                 |          |                                                                                                            |
-| 9   |                                              |                                 |          |                                                                                                            |
-| 10  |                                              |                                 |          |                                                                                                            |
-| 11  |                                              |                                 |          |                                                                                                            |
-| 12  |                                              |                                 |          |                                                                                                            |
-| 13  |                                              |                                 |          |                                                                                                            |
-| 14  |                                              |                                 |          |                                                                                                            |
-| 15  |                                              |                                 |          |                                                                                                            |
-| 16  |                                              |                                 |          |                                                                                                            |
-| 17  |                                              |                                 |          |                                                                                                            |
-| 18  |                                              |                                 |          |                                                                                                            |
-| 19  |                                              |                                 |          |                                                                                                            |
-| 20  |                                              |                                 |          |                                                                                                            |
-| 21  |                                              |                                 |          |                                                                                                            |
-| 22  |                                              |                                 |          |                                                                                                            |
-| 23  |                                              |                                 |          |                                                                                                            |
-| 24  |                                              |                                 |          |                                                                                                            |
-| 25  |                                              |                                 |          |                                                                                                            |
-| 26  |                                              |                                 |          |                                                                                                            |
-| 27  |                                              |                                 |          |                                                                                                            |
-| 28  |                                              |                                 |          |                                                                                                            |
-| 29  |                                              |                                 |          |                                                                                                            |
-| 30  |                                              |                                 |          |                                                                                                            |
+| Day | Frontend (GFE 75)                            | System Design (Hello Interview) | LeetCode | GitHub Commit Link                                                                                        |
+| --- | -------------------------------------------- | ------------------------------- | -------- | --------------------------------------------------------------------------------------------------------- |
+| 1   | Implement Debounce Function using setTimeout | Design LeetCode platform        | Two Sum  | [Commit](https://github.com/rishiarya09/30-Day-Challenge/commit/abde5bbf1041b06232ce896286d71b864efb13a0) |
+| 2   |                                              |                                 |          |                                                                                                           |
+| 3   |                                              |                                 |          |                                                                                                           |
+| 4   |                                              |                                 |          |                                                                                                           |
+| 5   |                                              |                                 |          |                                                                                                           |
+| 6   |                                              |                                 |          |                                                                                                           |
+| 7   |                                              |                                 |          |                                                                                                           |
+| 8   |                                              |                                 |          |                                                                                                           |
+| 9   |                                              |                                 |          |                                                                                                           |
+| 10  |                                              |                                 |          |                                                                                                           |
+| 11  |                                              |                                 |          |                                                                                                           |
+| 12  |                                              |                                 |          |                                                                                                           |
+| 13  |                                              |                                 |          |                                                                                                           |
+| 14  |                                              |                                 |          |                                                                                                           |
+| 15  |                                              |                                 |          |                                                                                                           |
+| 16  |                                              |                                 |          |                                                                                                           |
+| 17  |                                              |                                 |          |                                                                                                           |
+| 18  |                                              |                                 |          |                                                                                                           |
+| 19  |                                              |                                 |          |                                                                                                           |
+| 20  |                                              |                                 |          |                                                                                                           |
+| 21  |                                              |                                 |          |                                                                                                           |
+| 22  |                                              |                                 |          |                                                                                                           |
+| 23  |                                              |                                 |          |                                                                                                           |
+| 24  |                                              |                                 |          |                                                                                                           |
+| 25  |                                              |                                 |          |                                                                                                           |
+| 26  |                                              |                                 |          |                                                                                                           |
+| 27  |                                              |                                 |          |                                                                                                           |
+| 28  |                                              |                                 |          |                                                                                                           |
+| 29  |                                              |                                 |          |                                                                                                           |
+| 30  |                                              |                                 |          |                                                                                                           |
 
 ---
 

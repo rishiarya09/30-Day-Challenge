@@ -52,14 +52,15 @@ This Problem is about implementation of debounce function.
     return result;
 ```
 
-// Example inputs and outputs
-✓ Should call the functiononly once after rapid calls
-✓ Should call the function immediately if leading is true
-✓ Shuld cancel the debounced function
-✓ Should flush the debounced function
-✓ Should handle options correctly
-✓ Should throw an error if the first argument is not a function
-✓ Should preserve this/args context
+**Test Cases**
+
+- ✓ Should call the functiononly once after rapid calls
+- ✓ Should call the function immediately if leading is true
+- ✓ Shuld cancel the debounced function
+- ✓ Should flush the debounced function
+- ✓ Should handle options correctly
+- ✓ Should throw an error if the first argument is not a function
+- ✓ Should preserve this/args context
 
 **What I Learned**
 
