@@ -1,0 +1,19 @@
+{
+  "name": "Frontend-75",
+  "version": "1.0.0",
+  "description": "This Project will cover all the topics of Frontend-75 interview questions from Great Front End ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js && jest Day*/test.test.js",
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "jest": "^30.0.5"
+  }
+}
